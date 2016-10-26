@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4" : {"Frankenstein\\":"src/Frankenstein"}
+  },
+  "require": {
+    "facebook/webdriver": "1.2.0"
+  }
+}
